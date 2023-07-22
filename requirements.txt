@@ -1,6 +1,6 @@
 #Fill in dependencies here
 scikit-learn==0.21.3
-future==0.17.1
+future==0.18.3
 protobuf==3.7.1
 falcon==2.0.0
 gunicorn==19.9.0
